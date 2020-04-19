@@ -1,6 +1,6 @@
-Live Demo on https://congresslist.netlify.app
+Live Demo on https://congress-list-challenge.netlify.app
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b7647c61-a9e3-49ef-bfd7-415cbd3388f3/deploy-status)](https://app.netlify.com/sites/congresslist/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9745686e-6c93-46d1-b428-9468fcfdd55d/deploy-status)](https://app.netlify.com/sites/congress-list-challenge/deploys)
 
 # Congress List
 
