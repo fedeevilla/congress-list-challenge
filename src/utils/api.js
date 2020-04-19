@@ -48,7 +48,7 @@ const api = {
     },
     fetchMember: async function (id) {
       const { error, data } = await api.request({
-        url: `/members/${id}.json`,
+        url: `members/${id}.json`,
         method: "GET",
       });
 

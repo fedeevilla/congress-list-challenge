@@ -16,7 +16,6 @@ Create a project using create-react-app. You should read and implement the ProPu
 - Add an input to search through all the fields: name, party, gender, etc.
 - Add a dropdown button to be able to filter the search by each field.
 - Add routing to implement a detail view.
-  Optionals:
 - Client side pagination
 - Add responsive features
 - Deploy the application using github pages/heroku
