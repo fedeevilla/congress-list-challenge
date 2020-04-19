@@ -1,0 +1,39 @@
+.container-list {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.header-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.items-per-page {
+  font-size: 12px;
+  margin-right: 5px;
+}
+
+.list {
+  background: #e8e8e8;
+  width: 100%;
+  max-width: 600px;
+  border: 1px solid gainsboro;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.results {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.no-results {
+  background: white;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}

@@ -1,0 +1,28 @@
+.item {
+  background: white;
+  display: flex;
+  padding-left: 20px;
+  padding-right: 20px;
+  min-height: 45px;
+  align-items: center;
+  border-top: 1px solid gainsboro;
+}
+
+.title {
+  min-width: 155px;
+  text-align: left;
+  font-weight: 600;
+}
+
+.detail {
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+
+  p {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+}
